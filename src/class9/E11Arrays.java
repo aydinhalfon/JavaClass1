@@ -3,7 +3,9 @@ package class9;
 public class E11Arrays {
     public static void main(String[] args) {
         /*
-        There are two ways of creating arrays
+
+        1st way: int [] numbers = {1,2,3,4,5}
+        2nd way: There are two ways of creating arrays
         new int[5]=> create an array of int with size 5
          */
         int[] numbers = new int[5];

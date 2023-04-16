@@ -11,12 +11,25 @@ public class E5Arrays {
 
          */
         char[] chars = {'A', 'B', 'C', 'D', 'E'};
-        for (int i = 0; i < chars.length; i+=2) {
+        for (int i = 0; i < chars.length; i += 2) {
 
-            {System.out.println(chars[i]);}
+            {
+                System.out.println(chars[i]);
+            }
+        }
+
+
+        char [] chars1 = {'A', 'B', 'C', 'D', 'E'};
+        for (int j = chars1.length-1; j >=0 ; j--) {
+            System.out.println(j+" "+chars1[j]);
+
+
 
 
         }
+
+
+
 
     }
 }
