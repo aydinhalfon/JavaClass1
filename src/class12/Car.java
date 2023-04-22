@@ -1,6 +1,8 @@
 package class12;
 
-public class Car {// define 5 properties and 3 methods
+public class Car {
+
+    // define 5 properties and 3 methods
     String model;
     String make;
 
@@ -16,7 +18,8 @@ public class Car {// define 5 properties and 3 methods
         System.out.println("Applying the brakes to stop the car");
     }
 
-    void turn(){(System.out.println("turning.....");
+    void turn(){
+        System.out.println("turning.....");
     }
 
 }
