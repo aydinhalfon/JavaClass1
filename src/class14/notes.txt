@@ -1,0 +1,15 @@
+Methods/functions/behaviours
+
+   Method is a block of code. When we call the method all the logic is executed
+   that are present inside the method. Method can also take parameters which is the data
+   that we can pass when we call these methods.
+ We should we learn about methods:
+    1) Code re-usability
+    2) Organize the code
+    3) Changing the code becomes easier
+
+ Syntax
+    return type
+when to create a method?
+    Whenever we are repeating more than three lines of code at least twice
+    you can go for a method.
