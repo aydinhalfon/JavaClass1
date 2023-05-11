@@ -17,5 +17,6 @@ public class SyntaxEmployee {
         sohail.salary=92000;
         System.out.println(sohail.empId);
         System.out.println(asghar.empId);
+        System.out.println(asghar.salary);
     }
 }
